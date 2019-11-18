@@ -1,5 +1,5 @@
 [package]
-name = "Spotted - Artnet"
+name = "spotted_artnet"
 version = "0.1.0"
 authors = ["Ollie Nye <ollie@nyemail.co.uk>"]
 edition = "2018"
